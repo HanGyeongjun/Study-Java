@@ -1,4 +1,4 @@
-package KNUJavaProgramming;
+package KNUJavaProgramming.FirstWeek;
 
 public class VariableDemo {
     public static void main(String[] args) {

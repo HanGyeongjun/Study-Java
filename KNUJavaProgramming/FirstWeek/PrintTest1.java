@@ -1,4 +1,4 @@
-package KNUJavaProgramming;
+package KNUJavaProgramming.FirstWeek;
 
 public class PrintTest1 {
     public static void main(String[] args) {
